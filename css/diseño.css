@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+header{
+    color: yellow;
+    background-image: url("https://thumbs.dreamstime.com/b/fondo-geom%C3%A9trico-de-la-bandera-del-papel-pintado-arte-pixel-juego-minecraft-textura-cubo-tierra-e-hierba-con-para-sus-proyectos-152699354.jpg");
+}
+
+#imagen{
+    background-color: black;
+}
+
+#formulario{
+    background-color: hotpink;
+}
